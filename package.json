@@ -1,0 +1,19 @@
+{
+  "name": "recaptchav3bypass",
+  "version": "1.0.1",
+  "description": "Recaptcha v3 bypass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "recaptcha",
+    "bypass",
+    "v3"
+  ],
+  "author": "HuhRyan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
